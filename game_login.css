@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(242, 160, 135);
+}
+h1{
+	color: orange;
+	font-family: 'Akaya Kanadaka', cursive;
+}
+h3{
+	font-family: 'Lora', serif;
+	color: rgb(251, 255, 255);
+}
+label{
+	font-family: 'Yellowtail', cursive;
+	color: turquoise;
+}
+button{
+	font-family:'sans-serif';
+background-color: azure;
+}
+button:hover{
+width: 40%;
+}
+input:hover{
+	background-color: rgb(166, 246, 152);
+}
+div:hover{
+	border: 5px solid rgb(102, 6, 73);
+	width: 45%;
+}
